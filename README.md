@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Abdul Kadir 👋
 
-<!--
-**abdulkadir-ibji/abdulkadir-ibji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc IT Student (Second Year, 4th Semester)  
+🏫 Sankalchand Patel College of Engineering  
+💻 Interested in Software & Web Development  
 
-Here are some ideas to get you started:
+## 🛠 Skills (Learning & Practicing)
+- Programming: C, C++, Java, Python (Basics)
+- Web: HTML, CSS, JavaScript
+- CS Fundamentals: DSA, DBMS, OS
+- Tools: VS Code, Git (Basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- Academic and practice-based projects as part of B.Sc IT curriculum
+- Small programs and lab assignments for learning core concepts
+
+## 🎯 Current Focus
+- Strengthening programming fundamentals
+- Building small but meaningful projects
+- Preparing for internships
+
+📫 Reach me at: **ibjiakadir@gmail.com**
